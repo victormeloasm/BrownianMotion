@@ -4,6 +4,10 @@ Brownian motion, also known as pedesis, is the random motion exhibited by partic
 
 ## Overview
 
+
+![Animation](animation.gif)
+
+
 The phenomenon of Brownian motion arises due to the random collisions between the particles and the fluid molecules. These collisions cause the particles to undergo erratic, unpredictable movements, resembling a "random walk." This motion arises from the statistical nature of molecular interactions and is influenced by various factors, including temperature, particle size, and fluid viscosity.
 
 ## Mathematical Description
